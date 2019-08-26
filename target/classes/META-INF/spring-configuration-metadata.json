@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.devox.app.config.FileStorageProperties",
+      "name": "file",
+      "type": "com.devox.app.config.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.devox.app.config.FileStorageProperties",
+      "name": "file.upload-dir",
+      "type": "java.lang.String"
+    }
+  ]
+}

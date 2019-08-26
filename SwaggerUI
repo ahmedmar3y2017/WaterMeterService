@@ -1,0 +1,5 @@
+http://localhost:9090/v2/api-docs
+http://localhost:9090/swagger-ui.html
+
+
+mvn -Dmaven.test.skip=true -DskipTests=true clean install
